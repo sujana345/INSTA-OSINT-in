@@ -77,5 +77,5 @@ python3 instaOSINT.py
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/HunxBytsin">HunxByts</a></strong>
 </details>
