@@ -10,7 +10,7 @@ This tool is an update from OsintIG on my first account
 
 <details>
 <summary>:zap: Version 1.1.0 :</summary>
-- <strong><a href="https://github.com/Hunxploit04/OsintIG"</a>INSTA-OSINT V1.1.0</strong>
+- <strong><a href="https://github.com/Hunxploit04.in/OsintIG"</a>INSTA-OSINT V1.1.0</strong>
 </details>
 
 ### Note 📍
